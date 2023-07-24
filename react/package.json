@@ -1,0 +1,15 @@
+{
+  "name": "react",
+  "version": "18.20.0",
+  "description": "this is my first assignment on fundamental of node js",
+  "main": "yes",
+  "scripts": {
+    "test": "yes"
+  },
+  "repository": {
+    "type": "git",
+    "url": "no"
+  },
+  "author": "",
+  "license": "ISC"
+}
